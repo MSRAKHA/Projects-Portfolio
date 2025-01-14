@@ -112,6 +112,13 @@ def main():
                 "tech_stack": "Python,Streamlit"
             },
             {
+                "name":"Projects Portfolio",
+                "description": "All My Project Urls",
+                "url": "https://rakhamsprojecturls.streamlit.app/",
+                "status": "Completed",
+                "tech_stack": "Streamlit"
+            },
+            {
                 "name":"Business Website",
                 "description": "Ecom",
                 "url": "Private",
@@ -133,6 +140,7 @@ def main():
                 "status": "In Progress",
                 "tech_stack": "React,Python,AI,CV,GenAI and more"
             }
+            
         ]
     }
 
