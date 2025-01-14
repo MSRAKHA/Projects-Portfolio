@@ -1,2 +1,1 @@
-requirements.txt:
-streamlit==1.29.0  # or your current version
+streamlit==1.29.0
