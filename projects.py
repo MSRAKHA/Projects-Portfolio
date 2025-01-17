@@ -107,7 +107,7 @@ def main():
               {
                 "name":"ISLAMIC Daily Dua App",
                 "description": "Reminders to read Duas Daily",
-                "url": "https://islamic-duas-by-rakha-shaik.streamlit.app",
+                "url": "https://islamic-dua-by-rakha-shaik.streamlit.app",
                 "status": "Completed",
                 "tech_stack": "Python,Streamlit"
             },
