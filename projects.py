@@ -133,6 +133,14 @@ def main():
                 "status": "Planned",
                 "tech_stack": "To be decided"
             },
+             {
+                "name":"mindfocus",
+                "description":"Mind games",
+                "url":"https://mindfocus-rakhams.lovable.app/",
+                "status":"Completed",
+                "tect_stack":"React (v18) - Main UI framework,Vite - Build tool and development server,TypeScript - For type-safe JavaScript development"
+            }
+            
             {
                 "name": "More Projects Coming Up",
                 "description": "Health ,IT,Ecommerce,Studies",
@@ -140,7 +148,7 @@ def main():
                 "status": "In Progress",
                 "tech_stack": "React,Python,AI,CV,GenAI and more"
             }
-            
+           
         ]
     }
 
