@@ -139,7 +139,7 @@ def main():
                 "url":"https://mindfocus-rakhams.lovable.app/",
                 "status":"Completed",
                 "tect_stack":"React (v18) - Main UI framework,Vite - Build tool and development server,TypeScript - For type-safe JavaScript development"
-            }
+            },
             
             {
                 "name": "More Projects Coming Up",
