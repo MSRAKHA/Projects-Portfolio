@@ -132,12 +132,20 @@ def main():
                 "status": "Completed",
                 "tech_stack": "Python,Streamlit"
             },
+            
             {
                 "name":"ISLAMIC Daily Dua App -2 ",
                 "description": "Reminders to read Duas Daily",
                 "url": "https://msr-ramadan25.streamlit.app",
                 "status": "Completed",
                 "tech_stack": "Python,Streamlit"
+            },
+            {
+                "name":"TalentFlow",
+                "description": "TalentFlow help you to find out the Right Candidates for your Projects and Clients.",
+                "url": "https://talentflow.streamlit.app/",
+                "status": "Completed",
+                "tech_stack": "Python,Streamlit,SQL"
             },
             {
                 "name":"Projects Portfolio",
