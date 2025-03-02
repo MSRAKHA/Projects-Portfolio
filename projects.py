@@ -81,6 +81,13 @@ def main():
                 "tech_stack": "Python,Streamlit"
             },
             {
+                "name":"TCS Mental health Tracker -RR- App",
+                "description": "Mental health monitoring and tracking app",
+                "url": "https://rpl-raipur-rockets.streamlit.app",
+                "status": "Completed",
+                "tech_stack": "Python,Streamlit"
+            },
+            {
                 "name":"Dr.Soni Bhavani -BFF",
                 "description": "Memories to remember",
                 "url": "https://se-msr-dr-dsb.streamlit.app/",
