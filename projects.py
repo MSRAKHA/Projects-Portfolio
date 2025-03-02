@@ -105,9 +105,16 @@ def main():
         ],
         "2025": [
               {
-                "name":"ISLAMIC Daily Dua App",
+                "name":"ISLAMIC Daily Dua App -1",
                 "description": "Reminders to read Duas Daily",
                 "url": "https://islamic-dua-by-rakha-shaik.streamlit.app",
+                "status": "Completed",
+                "tech_stack": "Python,Streamlit"
+            },
+            {
+                "name":"ISLAMIC Daily Dua App -2 ",
+                "description": "Reminders to read Duas Daily",
+                "url": "https://msr-ramadan25.streamlit.app",
                 "status": "Completed",
                 "tech_stack": "Python,Streamlit"
             },
