@@ -81,6 +81,13 @@ def main():
                 "tech_stack": "Python,Streamlit"
             },
             {
+                "name":"Dr.Soni Bhavani -BFF",
+                "description": "Memories to remember",
+                "url": "https://se-msr-dr-dsb.streamlit.app/",
+                "status": "Completed",
+                "tech_stack": "Python,Streamlit"
+            },
+            {
                 "name":"Vercel APP",
                 "description": "Image Analysis using Anthropic API key",
                 "url": "Private",
