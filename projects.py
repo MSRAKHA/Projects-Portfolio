@@ -80,6 +80,13 @@ def main():
                 "status": "Completed",
                 "tech_stack": "Python,Streamlit"
             },
+                        {
+                "name":"GenAI Multimodel App",
+                "description": "Image generation ,Analysis,--us:user1, pw:password1",
+                "url": "https://rakhashaikgenai.streamlit.app/",
+                "status": "Completed",
+                "tech_stack": "Python,Streamlit,OpenAI,Flux,API Keys"
+            },
             {
                 "name":"TCS Mental health Tracker -RR- App",
                 "description": "Mental health monitoring and tracking app",
