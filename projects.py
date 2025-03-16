@@ -125,7 +125,38 @@ def main():
             
         ],
         "2025": [
-              {
+            {
+            
+                "name":"TCS RPL Coding Challenge Invoicify",
+                "description": "Bill extraction in hindi english",
+                "url": "https://ms-rakha-invoicify.hf.space",
+                "status": "Completed",
+                "tech_stack": "Python,gradio,This code represents a sophisticated invoice processing application that leverages several modern technologies and frameworks. Here's a detailed breakdown of the tech stack:
+Core Framework and UI
+The application is built primarily using Gradio, a Python library that makes it easy to create user-friendly web interfaces for machine learning models. The UI is designed with a clean, modern interface that includes features like image upload, zoom controls, and form inputs.
+AI and Machine Learning Components
+The application uses Groq's LLM (Large Language Model) service, specifically the "llama-3.2-90b-vision-preview" model, for OCR (Optical Character Recognition) and text processing. LangChain is used to manage the interactions with the LLM and handle prompt engineering.
+Data Processing and Validation
+Pandas is used for data manipulation and handling Excel operations
+Pydantic provides robust data validation through type checking and data modeling
+PIL (Python Imaging Library) handles image processing operations
+JSON is used for structured data handling
+Storage and File Operations
+The application uses Excel as its storage solution, with openpyxl handling the Excel file operations. Environment variables are managed using python-dotenv for secure configuration.
+Key Features
+1. OCR capabilities for extracting text from invoice images
+Interactive image manipulation (zoom in/out)
+Structured data extraction for invoice details
+Excel-based data storage and export
+Form validation and error handling
+Real-time data processing
+This tech stack represents a modern approach to document processing, combining web technologies, AI/ML capabilities, and traditional data processing tools in a single application. The architecture allows for scalable, efficient processing of invoice documents while maintaining a user-friendly interface."
+            },
+
+
+
+            
+            {
                 "name":"ISLAMIC Daily Dua App -1",
                 "description": "Reminders to read Duas Daily",
                 "url": "https://islamic-dua-by-rakha-shaik.streamlit.app",
