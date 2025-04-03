@@ -18,7 +18,7 @@ def main():
     st.header(":blue[🚀 Projects Timeline]")
     
     # Create tabs for different years
-    tab1, tab2, tab3, tab4 = st.tabs(["2022", "2023", "2024", "2025"])
+    tab1, tab2, tab3, tab4,tab5 = st.tabs(["2022", "2023", "2024", "2025","Certificates"])
     
     # Project data structure
     projects = {
@@ -191,7 +191,39 @@ def main():
                 "status": "In Progress",
                 "tech_stack": "React, Python, TensorFlow, PyTorch, AWS, Azure, Kubernetes, GraphQL, Web3, Computer Vision"
             }
-        ]
+        ],
+         "Certificates" :[
+             {
+                 "name":"Credly Certificate Badges Account",
+                 "description": "https://www.credly.com/users/rakha-shaik",
+                 "url" :"https://www.credly.com/users/rakha-shaik",
+                 "status": "Certificates InProgress",
+                 "tech_stack":""
+             },
+         {
+             "name" : "Azure Fundamentals",
+             "description": "",
+             "url": "https://www.credly.com/badges/c737c405-f772-4ada-99a3-3e6750e60a81/public_url",
+             "status": "completed",
+             "tech_stack": "Azure Cloud"
+         },
+             {
+             "name" : "AWS Cloud Practitioner",
+             "description": "",
+             "url": "https://www.credly.com/badges/329dcc5e-4b12-49e9-b740-da45ac7b3846/public_url",
+             "status": "completed",
+             "tech_stack": "AWS Cloud"
+                 
+             },
+             {
+              "name" : "AWS Solution Architect ",
+             "description": "",
+             "url": "https://www.credly.com/badges/eeded8cd-9f73-4faa-b9c1-b1a59e165924/public_url",
+             "status": "completed",
+             "tech_stack": "AWS Cloud"   
+             }
+             
+         ]
     }
 
     # 2022 Projects Tab
