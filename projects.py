@@ -202,22 +202,22 @@ def main():
              },
          {
              "name" : "Azure Fundamentals",
-             "description": "",
+             "description": "Azure Cloud",
              "url": "https://www.credly.com/badges/c737c405-f772-4ada-99a3-3e6750e60a81/public_url",
              "status": "completed",
              "tech_stack": "Azure Cloud"
          },
              {
              "name" : "AWS Cloud Practitioner",
-             "description": "",
+             "description": "AWS CP",
              "url": "https://www.credly.com/badges/329dcc5e-4b12-49e9-b740-da45ac7b3846/public_url",
              "status": "completed",
              "tech_stack": "AWS Cloud"
                  
              },
              {
-              "name" : "AWS Solution Architect ",
-             "description": "",
+              "name" : "AWS Solution Architect Associate",
+             "description": " SAA-CO3 ",
              "url": "https://www.credly.com/badges/eeded8cd-9f73-4faa-b9c1-b1a59e165924/public_url",
              "status": "completed",
              "tech_stack": "AWS Cloud"   
@@ -279,7 +279,6 @@ def main():
             with st.expander(f"🚀 {project['name']} - {project['status']}"):
                 st.markdown(f"""
                     **Description:** {project['description']}  
-                    **Tech Stack:** {project['tech_stack']}  
                     **Project URL:**
                 """)
                 st.code(project['url'], language="bash")
