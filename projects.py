@@ -273,6 +273,17 @@ def main():
                     **Project URL:**
                 """)
                 st.code(project['url'], language="bash")
+    with tab5:
+        st.header("Rakha's Certificates So Far")
+        for project in projects["Certificates"]:
+            with st.expander(f"🚀 {project['name']} - {project['status']}"):
+                st.markdown(f"""
+                    **Description:** {project['description']}  
+                    **Tech Stack:** {project['tech_stack']}  
+                    **Project URL:**
+                """)
+                st.code(project['url'], language="bash")
+            
 
 # Custom CSS for better styling
 st.markdown("""
