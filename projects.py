@@ -201,14 +201,14 @@ def main():
                  "tech_stack":""
              },
          {
-             "name" : "Azure Fundamentals",
-             "description": "Azure Cloud",
+             "name" : "Microsoft Certified Azure Fundamentals",
+             "description": "Microsoft Cloud",
              "url": "https://www.credly.com/badges/c737c405-f772-4ada-99a3-3e6750e60a81/public_url",
              "status": "completed",
              "tech_stack": "Azure Cloud"
          },
              {
-             "name" : "AWS Cloud Practitioner",
+             "name" : "AWS Certified Cloud Practitioner",
              "description": "AWS CP",
              "url": "https://www.credly.com/badges/329dcc5e-4b12-49e9-b740-da45ac7b3846/public_url",
              "status": "completed",
@@ -216,12 +216,20 @@ def main():
                  
              },
              {
-              "name" : "AWS Solution Architect Associate",
+              "name" : "AWS Certified Solution Architect Associate",
              "description": " SAA-CO3 ",
              "url": "https://www.credly.com/badges/eeded8cd-9f73-4faa-b9c1-b1a59e165924/public_url",
              "status": "completed",
              "tech_stack": "AWS Cloud"   
+             },
+                          {
+              "name" : "AWS Certified AI Practitioner ",
+             "description": " GenAI Practitioner ",
+             "url": "https://www.credly.com/badges/82aaead0-baf9-4152-922b-d136e0d95846/public_url",
+             "status": "completed",
+             "tech_stack": "AWS Cloud"   
              }
+             
              
          ]
     }
