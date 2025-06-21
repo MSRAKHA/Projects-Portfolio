@@ -129,6 +129,17 @@ def main():
         ],
         "2025": [
             {
+                "name": "Life Science Machine Learning Project -  Disease Prediction & Recommendation ",
+                "description": "The Life-Science-ML Medicine Recommendation System is an intelligent web application that revolutionizes healthcare accessibility by leveraging artificial intelligence to predict diseases based on user-reported symptoms. Built with Python Flask and powered by a Support Vector Machine (SVM) classifier, this system processes over 132 medical symptoms to accurately identify potential health conditions from a database of 40+ common diseases including infectious diseases like malaria and dengue, chronic conditions such as diabetes and hypertension, respiratory issues including asthma and pneumonia, and various digestive disorders.
+
+The application goes beyond simple disease prediction by providing comprehensive, personalized medical recommendations tailored to each diagnosed condition. Users receive detailed guidance including specific medications, customized diet plans and nutrition advice, essential precautionary measures to prevent complications, and targeted workout routines to support recovery and overall health improvement. The system's machine learning model has been trained on an extensive dataset of 4,920+ symptom-disease combinations, ensuring high accuracy in predictions and reliable medical insights.
+
+The user-friendly web interface allows individuals to simply input their symptoms in a comma-separated format, after which the AI processes the symptom patterns and delivers instant results with actionable medical advice. This makes the platform invaluable for primary health screening, medical education, health awareness campaigns, and preliminary diagnosis support. While serving as a powerful tool for health assessment and education, the system includes appropriate disclaimers emphasizing that it should complement, not replace, professional medical consultation, making it an excellent resource for both healthcare professionals and individuals seeking preliminary health insights.",
+                "url": "https://life-science-ml.onrender.com/",
+                "status": "Completed",
+                "tech_stack": "Python,ML,HTML"
+            },
+            {
                 "name": "TCS RPL Coding Challenge Invoicify 📄",
                 "description": "Enterprise-grade invoice processing system with multi-language support and advanced OCR capabilities. Features include automated data extraction, signature verification, fraud detection, and integration with major accounting systems. Reduced processing time by 75% and improved accuracy to 99.9%.",
                 "url": "https://ms-rakha-invoicify.hf.space",
