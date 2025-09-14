@@ -197,6 +197,20 @@ def main():
                 "url": "https://github.com/MSRAKHA",
                 "status": "In Progress",
                 "tech_stack": "React, Python, TensorFlow, PyTorch, AWS, Azure, Kubernetes, GraphQL, Web3, Computer Vision"
+            },
+            {
+                "name": "PDF Single Page Viewer",
+                "description": "A cooking PDF which is in Landscape converted into single page view mode",
+                "url": "https://ir-scooking.streamlit.app/",
+                "status": "Completed",
+                "tech_stack": "Python"
+            },
+            {
+                "name": "Cooking APP",
+                "description": "An App of Favourite Dishes",
+                "url": "https://irfan-rakha-cooks.streamlit.app/",
+                "status": "In Progress",
+                "tech_stack": "Python"
             }
         ],
          "Certificates" :[
