@@ -215,6 +215,28 @@ def main():
         ],
          "Certificates" :[
              {
+                 "name":"DataBricks Certification",
+                 "description": "https://credentials.databricks.com/71bd9317-0714-4d92-8e59-e77e3f35b7ae#acc.7wkFpZSE",
+                 "url" :"https://credentials.databricks.com/71bd9317-0714-4d92-8e59-e77e3f35b7ae#acc.7wkFpZSE",
+                 "status": "Certificates Completed",
+                 "tech_stack":"ML & Data Engineering & GenAI"
+             },
+             {
+                 "name":"DataBricks Certification",
+                 "description": "https://credentials.databricks.com/44e9262b-3cc3-4e76-83e3-3ca162d65d0f#acc.3QmO208Z",
+                 "url" :"https://credentials.databricks.com/44e9262b-3cc3-4e76-83e3-3ca162d65d0f#acc.3QmO208Z",
+                 "status": "Certificates Completed",
+                 "tech_stack":"ML & Data Engineering & GenAI"
+             },
+
+             {
+                 "name":"Databricks Certificate Badges Account",
+                 "description": "https://www.credentials.net/profile/rakhashaik7/wallet",
+                 "url" :"https://www.credentials.net/profile/rakhashaik7/wallet",
+                 "status": "DataBricks Learning Completion Badges",
+                 "tech_stack":"AI & Data Engineering"
+             },
+             {
                  "name":"Credly Certificate Badges Account",
                  "description": "https://www.credly.com/users/rakha-shaik",
                  "url" :"https://www.credly.com/users/rakha-shaik",
