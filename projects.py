@@ -231,7 +231,7 @@ def main():
 
              {
                  "name":"Databricks Certificate Badges Account",
-                 "description": "https://www.credentials.net/profile/rakhashaik7/wallet",
+                 "description": "https://www.credential.net/profile/rakhashaik7/wallet",
                  "url" :"https://www.credential.net/profile/rakhashaik7/wallet",
                  "status": "DataBricks Learning Completion Badges",
                  "tech_stack":"AI & Data Engineering"
